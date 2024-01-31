@@ -1,4 +1,5 @@
 Git Komutları
+# THank you to https://github.com/joshnh/Git-Commands
 ============
 
 ## Çevrilmiş Versiyonlar
